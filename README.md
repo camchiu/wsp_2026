@@ -1,0 +1,7 @@
+# The Data Science of Sleep: What is the secret to a good night's sleep?
+
+Research project for the 2026 Warrior Scholars Program: STEM Bootcamp Research Project. 
+
+Sleep affects nearly every aspect of human health and performance, yet scientists are still working to understand why some people sleep better than others. In this project, students will use real-world health and lifestyle data to investigate how factors such as stress and exercise relate to sleep quality and overall health. Using Python, students will learn to load, visualize, and interpret data the same way professional health researchers and data scientists do. By the end of the week, students will have designed and carried out their own data-driven investigation and will present their findings to their peers.
+
+Students first work through a basic Python primer (`1_wsp_python`), then use penguin data ([`penguins.csv`](https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris)) to practice these skills with a real dataset (`2_wsp_explore`). From this, students can choose to use FitBit data ([`fitbit_sleep.csv`](https://www.kaggle.com/datasets/arashnic/fitbit/data)) and/or the 2022 Behavioral Risk Factor Surveillance System survey data ([`brfss_sleep.csv`](https://www.cdc.gov/brfss/index.html)) to explore the different variables--physical, mental, social, and economic--that might affect how much a person sleeps (`3_wsp_sleep`). Inspired by Allison Merritt’s Data Exploration Lab and DataCamp.
